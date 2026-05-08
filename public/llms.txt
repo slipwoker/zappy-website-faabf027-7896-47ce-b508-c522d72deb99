@@ -40,7 +40,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: donalddaka@gmail.com
+- Phone: 0547846905
+- Phone (tel): tel:0547846905
+- Address: HATAMAR, 200, BEIT ARYE, ישראל, 71947, ישראל
 
 ### Contact form
 - URL: https://example.com/contact

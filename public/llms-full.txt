@@ -388,11 +388,11 @@ Description: בניית מצגות לאירועים ברמה הגבוהה ביו
 ### יצירת קשר
 
 
-- [business_email]
+- donalddaka@gmail.com
 
-- [business_phone]
+- 0547846905
 
-- [business_address]
+- HATAMAR, 200, BEIT ARYE, ישראל, 71947, ישראל
 
 
 
@@ -957,11 +957,11 @@ Description: ממצגות לאירועים עסקיים ועד מצגות חגי
 ### יצירת קשר
 
 
-- [business_email]
+- donalddaka@gmail.com
 
-- [business_phone]
+- 0547846905
 
-- [business_address]
+- HATAMAR, 200, BEIT ARYE, ישראל, 71947, ישראל
 
 
 
@@ -1456,11 +1456,11 @@ Description: אנחנו מאמינים שכל אירוע ראוי לסיפור �
 ### יצירת קשר
 
 
-- [business_email]
+- donalddaka@gmail.com
 
-- [business_phone]
+- 0547846905
 
-- [business_address]
+- HATAMAR, 200, BEIT ARYE, ישראל, 71947, ישראל
 
 
 
@@ -1771,7 +1771,7 @@ Description: מוכנים להפוך את האירוע שלכם לחוויה ו�
 
 שלחו פרטים על האירוע שלכם ואחזור אליכם תוך יום עסקים אחד עם הצעה מותאמת אישית.
 
-[business_email]
+donalddaka@gmail.com
 
 
 
@@ -1788,7 +1788,7 @@ Description: מוכנים להפוך את האירוע שלכם לחוויה ו�
 
 מעדיפים לדבר? אשמח לשיחה קצרה כדי להבין את הצרכים שלכם ולתכנן יחד את המצגת המושלמת לאירוע.
 
-[business_phone]
+0547846905
 
 
 
@@ -1889,11 +1889,11 @@ Description: מוכנים להפוך את האירוע שלכם לחוויה ו�
 ### יצירת קשר
 
 
-- [business_email]
+- donalddaka@gmail.com
 
-- [business_phone]
+- 0547846905
 
-- [business_address]
+- HATAMAR, 200, BEIT ARYE, ישראל, 71947, ישראל
 
 
 
@@ -2089,11 +2089,11 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 - חברה: רגע של מצגת
 
-- אימייל: [business_email]
+- אימייל: donalddaka@gmail.com
 
-- טלפון: [business_phone]
+- טלפון: 0547846905
 
-- כתובת: [business_address]
+- כתובת: HATAMAR, 200, BEIT ARYE, ישראל, 71947, ישראל
 
 
 
@@ -2148,11 +2148,11 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 ### יצירת קשר
 
 
-- [business_email]
+- donalddaka@gmail.com
 
-- [business_phone]
+- 0547846905
 
-- [business_address]
+- HATAMAR, 200, BEIT ARYE, ישראל, 71947, ישראל
 
 
 
@@ -2356,9 +2356,9 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 - חברה: רגע של מצגת
 
-- אימייל: [business_email]
+- אימייל: donalddaka@gmail.com
 
-- טלפון: [business_phone]
+- טלפון: 0547846905
 
 
 
@@ -2416,11 +2416,11 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 ### יצירת קשר
 
 
-- [business_email]
+- donalddaka@gmail.com
 
-- [business_phone]
+- 0547846905
 
-- [business_address]
+- HATAMAR, 200, BEIT ARYE, ישראל, 71947, ישראל
 
 
 
@@ -2647,11 +2647,11 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 - חברה: רגע של מצגת
 
-- אימייל: [business_email]
+- אימייל: donalddaka@gmail.com
 
-- טלפון: [business_phone]
+- טלפון: 0547846905
 
-- כתובת: [business_address]
+- כתובת: HATAMAR, 200, BEIT ARYE, ישראל, 71947, ישראל
 
 
 
@@ -2703,11 +2703,11 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 ### יצירת קשר
 
 
-- [business_email]
+- donalddaka@gmail.com
 
-- [business_phone]
+- 0547846905
 
-- [business_address]
+- HATAMAR, 200, BEIT ARYE, ישראל, 71947, ישראל
 
 
 
