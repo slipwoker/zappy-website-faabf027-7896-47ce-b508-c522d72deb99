@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://-faabf027.zappy5.app
+https://example.com
 בניית מצגות לאירועים ברמה הגבוהה ביותר – מצגות מעוצבות, מרגשות ומותאמות אישית שיגרמו לקהל שלכם להישאר פעור פה. גלו את הקסם עכשיו!
 
 ### שירותים
-https://-faabf027.zappy5.app/services
+https://example.com/services
 ממצגות לאירועים עסקיים ועד מצגות חגיגיות – אנו מציעים עיצוב מצגות מקצועי המותאם לכל סוג אירוע. גלו את מגוון השירותים שלנו וצרו את הרושם הראשון המושלם!
 
 ### אודות
-https://-faabf027.zappy5.app/about
+https://example.com/about
 אנחנו מאמינים שכל אירוע ראוי לסיפור ויזואלי מרהיב. הכירו את הצוות היצירתי שמאחורי בניית מצגות לאירועים שמדברות אל הלב ומייצרות רגעים שלא נשכחים לעולם.
 
 ### צור קשר
-https://-faabf027.zappy5.app/contact
+https://example.com/contact
 מוכנים להפוך את האירוע שלכם לחוויה ויזואלית שתישאר בזיכרון? צרו איתנו קשר עוד היום לקבלת ייעוץ חינם ותחילת תהליך עיצוב מצגות לאירועים עסקיים ופרטיים בישראל.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-faabf027.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-faabf027.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-faabf027.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-faabf027.zappy5.app/contact
-- Endpoint: https://-faabf027.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -76,6 +76,6 @@ A creative business specializing in designing and building presentations for eve
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-faabf027.zappy5.app/sitemap.xml
-- Robots: https://-faabf027.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-faabf027.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt

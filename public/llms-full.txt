@@ -2,13 +2,13 @@
 
 A creative business specializing in designing and building presentations for events. The company crafts visually compelling slideshows and presentation materials tailored for various event types, helping clients make a strong impression at their occasions.
 
-Source: https://-faabf027.zappy5.app
+Source: https://example.com
 
 ---
 
 ## הפכו כל אירוע לרגע בלתי נשכח — רגע של מצגת
 
-URL: https://-faabf027.zappy5.app
+URL: https://example.com
 Description: בניית מצגות לאירועים ברמה הגבוהה ביותר – מצגות מעוצבות, מרגשות ומותאמות אישית שיגרמו לקהל שלכם להישאר פעור פה. גלו את הקסם עכשיו!
 
 הפכו כל אירוע לרגע בלתי נשכח — רגע של מצגת
@@ -517,7 +517,7 @@ Description: בניית מצגות לאירועים ברמה הגבוהה ביו
 
 ## שירותי עיצוב מצגות שישאירו חותם — רגע של מצגת
 
-URL: https://-faabf027.zappy5.app/services
+URL: https://example.com/services
 Description: ממצגות לאירועים עסקיים ועד מצגות חגיגיות – אנו מציעים עיצוב מצגות מקצועי המותאם לכל סוג אירוע. גלו את מגוון השירותים שלנו וצרו את הרושם הראשון המושלם!
 
 שירותי עיצוב מצגות שישאירו חותם — רגע של מצגת
@@ -1086,7 +1086,7 @@ Description: ממצגות לאירועים עסקיים ועד מצגות חגי
 
 ## הסיפור מאחורי כל מצגת מנצחת — רגע של מצגת
 
-URL: https://-faabf027.zappy5.app/about
+URL: https://example.com/about
 Description: אנחנו מאמינים שכל אירוע ראוי לסיפור ויזואלי מרהיב. הכירו את הצוות היצירתי שמאחורי בניית מצגות לאירועים שמדברות אל הלב ומייצרות רגעים שלא נשכחים לעולם.
 
 הסיפור מאחורי כל מצגת מנצחת — רגע של מצגת
@@ -1585,7 +1585,7 @@ Description: אנחנו מאמינים שכל אירוע ראוי לסיפור �
 
 ## בואו נבנה יחד את המצגת של חייכם — רגע של מצגת
 
-URL: https://-faabf027.zappy5.app/contact
+URL: https://example.com/contact
 Description: מוכנים להפוך את האירוע שלכם לחוויה ויזואלית שתישאר בזיכרון? צרו איתנו קשר עוד היום לקבלת ייעוץ חינם ותחילת תהליך עיצוב מצגות לאירועים עסקיים ופרטיים בישראל.
 
 בואו נבנה יחד את המצגת של חייכם — רגע של מצגת
@@ -2018,7 +2018,7 @@ Description: מוכנים להפוך את האירוע שלכם לחוויה ו�
 
 ## מדיניות פרטיות
 
-URL: https://-faabf027.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -2277,7 +2277,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-faabf027.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2545,7 +2545,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-faabf027.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
