@@ -1,0 +1,81 @@
+# רגע של מצגת — Generative Engine Optimization Map
+
+> A creative business specializing in designing and building presentations for events. The company crafts visually compelling slideshows and presentation materials tailored for various event types, helping clients make a strong impression at their occasions.
+
+---
+
+## Pages
+
+### בית
+https://-faabf027.zappy5.app
+בניית מצגות לאירועים ברמה הגבוהה ביותר – מצגות מעוצבות, מרגשות ומותאמות אישית שיגרמו לקהל שלכם להישאר פעור פה. גלו את הקסם עכשיו!
+
+### שירותים
+https://-faabf027.zappy5.app/services
+ממצגות לאירועים עסקיים ועד מצגות חגיגיות – אנו מציעים עיצוב מצגות מקצועי המותאם לכל סוג אירוע. גלו את מגוון השירותים שלנו וצרו את הרושם הראשון המושלם!
+
+### אודות
+https://-faabf027.zappy5.app/about
+אנחנו מאמינים שכל אירוע ראוי לסיפור ויזואלי מרהיב. הכירו את הצוות היצירתי שמאחורי בניית מצגות לאירועים שמדברות אל הלב ומייצרות רגעים שלא נשכחים לעולם.
+
+### צור קשר
+https://-faabf027.zappy5.app/contact
+מוכנים להפוך את האירוע שלכם לחוויה ויזואלית שתישאר בזיכרון? צרו איתנו קשר עוד היום לקבלת ייעוץ חינם ותחילת תהליך עיצוב מצגות לאירועים עסקיים ופרטיים בישראל.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-faabf027.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-faabf027.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-faabf027.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-faabf027.zappy5.app/contact
+- Endpoint: https://-faabf027.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About רגע של מצגת
+A creative business specializing in designing and building presentations for events. The company crafts visually compelling slideshows and presentation materials tailored for various event types, helping clients make a strong impression at their occasions.
+
+## Services/Products
+- בניית מצגות לאירועים
+
+## Target Audience
+- מתכנני אירועים
+- לקוחות עסקיים
+- מוסדות חינוך
+
+## Industry
+עיצוב ומולטימדיה
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-faabf027.zappy5.app/sitemap.xml
+- Robots: https://-faabf027.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-faabf027.zappy5.app/llms-full.txt
