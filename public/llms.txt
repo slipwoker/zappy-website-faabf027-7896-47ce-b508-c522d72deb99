@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://example.com
+https://rega-shel-matzaget.zappy5.app
 בניית מצגות לאירועים ברמה הגבוהה ביותר – מצגות מעוצבות, מרגשות ומותאמות אישית שיגרמו לקהל שלכם להישאר פעור פה. גלו את הקסם עכשיו!
 
 ### שירותים
-https://example.com/services
+https://rega-shel-matzaget.zappy5.app/services
 ממצגות לאירועים עסקיים ועד מצגות חגיגיות – אנו מציעים עיצוב מצגות מקצועי המותאם לכל סוג אירוע. גלו את מגוון השירותים שלנו וצרו את הרושם הראשון המושלם!
 
 ### אודות
-https://example.com/about
+https://rega-shel-matzaget.zappy5.app/about
 אנחנו מאמינים שכל אירוע ראוי לסיפור ויזואלי מרהיב. הכירו את הצוות היצירתי שמאחורי בניית מצגות לאירועים שמדברות אל הלב ומייצרות רגעים שלא נשכחים לעולם.
 
 ### צור קשר
-https://example.com/contact
+https://rega-shel-matzaget.zappy5.app/contact
 מוכנים להפוך את האירוע שלכם לחוויה ויזואלית שתישאר בזיכרון? צרו איתנו קשר עוד היום לקבלת ייעוץ חינם ותחילת תהליך עיצוב מצגות לאירועים עסקיים ופרטיים בישראל.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://rega-shel-matzaget.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://rega-shel-matzaget.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://rega-shel-matzaget.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -46,8 +46,8 @@ Information about WCAG compliance and accessibility features.
 - Address: HATAMAR, 200, BEIT ARYE, ישראל, 71947, ישראל
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://rega-shel-matzaget.zappy5.app/contact
+- Endpoint: https://rega-shel-matzaget.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -79,6 +79,6 @@ A creative business specializing in designing and building presentations for eve
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://rega-shel-matzaget.zappy5.app/sitemap.xml
+- Robots: https://rega-shel-matzaget.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://rega-shel-matzaget.zappy5.app/llms-full.txt
